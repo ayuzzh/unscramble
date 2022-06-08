@@ -1,0 +1,7 @@
+[package]
+name = "Unscramble"
+version = "0.0.1"
+authors = ["Ayush K M"]
+edition = "2022"
+
+[dependencies]
